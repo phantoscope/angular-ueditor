@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "zawgyicss"
+        "zawgyicss",
+        "yahei"
     ],
     "pluginsConfig": {}
 }
