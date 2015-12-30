@@ -2,7 +2,8 @@
     "plugins": [
         "zawgyicss",
         "yahei",
-        "wide"
+        "wide",
+        "wabtheme"
     ],
     "pluginsConfig": {}
 }
